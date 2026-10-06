@@ -3,7 +3,7 @@
     "description": "Development files for the Post Connector plugin",
     "dependencies": {},
     "devDependencies": {
-        "grunt": "~0.4.1",
+        "grunt": "~1.6.3",
         "grunt-wp-i18n": "0.4.3"
     },
     "engines": {
